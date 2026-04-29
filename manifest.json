@@ -1,0 +1,21 @@
+{
+  "name": "ហាងកាហ្វេ 41",
+  "short_name": "SH41",
+  "description": "ការពិពណ៌នាខ្លីពីហាងរបស់អ្នក",
+  "start_url": "https://yourwebsite.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://storage.googleapis.com/takeapp/media/cluz3ppng00080fjs930b68me.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://storage.googleapis.com/takeapp/media/cluz3ppng00080fjs930b68me.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
